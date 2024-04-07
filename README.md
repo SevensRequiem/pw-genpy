@@ -11,4 +11,7 @@ say `12dD.4YBNvqre5XDsW01OUMmW99Fh4bXSOPvJf2hAvb1tln4piiDGen19foPHEoBhxyI3` is t
 `12dD` would be the identifier. so you use `12dD` to match the service to that whole token and copy/paste that token to login to your service.  
 `12dD - My Service`  
 
-just generate 100 tokens and only use 5~, how will anyone know which token is used for what? :P
+just generate 100 tokens and only use 5~, how will anyone know which token is used for what? :P  
+
+
+bruteforcing using ur tokens as a wordlist? unlikely, ratelimits + login attempts exist for your service (hopefully, get fail2ban on that!)
