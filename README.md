@@ -1,5 +1,5 @@
 # pw-genpy
-simple token/password generator
+simple token/password generator written in python
 
 usage:
 `python tokens.py`  
